@@ -116,8 +116,8 @@ A separate experiment (`Models_complete_data_no_engineering.ipynb`) trained the 
 ## Setup
 
 ```bash
-git clone https://github.com/IQnull7/ames-housing-prediction.git
-cd ames-housing-prediction
+git clone https://github.com/IQnull7/House-Price-Prediction.git
+cd House-Price-Prediction
 pip install -r requirements.txt
 ```
 
